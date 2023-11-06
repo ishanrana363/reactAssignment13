@@ -1,0 +1,75 @@
+.valuation{
+
+}
+.valuation h1{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    color: #000000;
+
+}
+.valuation p{
+    padding: 30px 0px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.data-set{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+}
+
+.valuedatalist{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    background-color: #1A1B23;
+}
+.valuationTitle{
+    color: white;
+    margin-top: 10px;
+}
+.valuationBody{
+    color: white;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

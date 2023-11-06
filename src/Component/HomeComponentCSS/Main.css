@@ -1,0 +1,82 @@
+.main{
+
+}
+section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+    padding: 40px 0px;
+}
+article{
+    text-align: center;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    padding: 20px;
+    border-radius: 5px;
+    height: auto;
+}
+.business{
+    text-align: center;
+    padding: 30px 0px;
+    color: #000000;
+    font-size: 36px;
+    font-weight: 600;
+}
+.yes{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.need{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

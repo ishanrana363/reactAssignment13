@@ -4,23 +4,23 @@ const ReactRoute = () => {
     return (
         <div>
             <nav>
-                <ul>
-                    <li>
+                <ul className= "ul" >
+                    <li className= "li" >
                         <NavLink className= "nav-link" to= "/" >Home</NavLink>
                     </li>
-                    <li>
-                        <NavLink className= "nav-link"  to= "/service" >Service</NavLink>
+                    <li className= "li" >
+                        <NavLink className= "nav-link"  to= "/servic" >Service</NavLink>
                     </li>
-                    <li>
+                    <li className= "li" >
                         <NavLink className= "nav-link"  to= "/about" >About</NavLink>
-                    </li>
-                    <li>
+                    </li >
+                    <li className= "li" >
                         <NavLink className= "nav-link"  to= "/project" >Project</NavLink>
                     </li>
-                    <li>
+                    <li className= "li" >
                         <NavLink className= "nav-link"  to= "/blog" >Blog</NavLink>
                     </li>
-                    <li>
+                    <li className= "li" >
                         <NavLink className= "nav-link"  to= "/contact" >Contact</NavLink>
                     </li>
                 </ul>

@@ -1,0 +1,73 @@
+.header{
+    background-image: url("../../assets/img1.png");
+    width: 100%;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px 50px;
+}
+.h1{
+    padding: 20px 0px;
+    color: #FFFFFF;
+    font-size: 44px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+.datalist{
+    margin-left: 25px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.btns{
+    margin-top: 45px;
+    padding-bottom:30px ;
+}
+.btn{
+    width: 208px;
+    height: 69px;
+    font-size: 24px;
+    border-radius: 5px;
+}
+.btn1{
+    border: 2px solid white;
+
+}
+.btn2{
+    margin-left: 25px;
+    border: none;
+    /*color: rgba(7, 0, 89, 0.28);*/
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

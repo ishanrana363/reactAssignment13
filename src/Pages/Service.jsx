@@ -1,9 +1,11 @@
 import React from 'react';
+import Header from "../Component/HomeComponent/Header.jsx";
+import ServiceComponent from "../Component/Service/ServiceComponent.jsx";
 
 const Service = () => {
     return (
         <div>
-            <h1>Servic</h1>
+            <ServiceComponent/>
         </div>
     );
 };
