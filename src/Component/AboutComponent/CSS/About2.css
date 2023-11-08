@@ -1,0 +1,58 @@
+.title2{
+    width: 50%;
+    margin: 0 auto;
+}
+.dataTitle1{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.data1{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 400;
+}
+.data2{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 400;
+}
+.dataTitle2{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 35px;
+}
+
+.leftDataTitle{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 400;
+}
+.rightDataTitle{
+    color: #263873;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

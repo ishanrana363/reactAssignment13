@@ -1,9 +1,9 @@
-import React from 'react';
-import Header from "../Component/HomeComponent/Header.jsx";
+import AboutComponent from "../Component/AboutComponent/AboutComponent.jsx";
 const About = () => {
     return (
         <div>
-            <Header/>
+                <AboutComponent/>
+
         </div>
     );
 };

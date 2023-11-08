@@ -1,0 +1,65 @@
+.about1{
+    background-color: #263873;
+}
+.websels{
+    text-align: center;
+    margin-top: 55px;
+}
+.websels h1{
+    text-align: center;
+    color: #48B9B7;
+    font-size: 46px;
+    font-weight:700;
+    font-style: italic;
+}
+.websels h3{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 30px 0px;
+}
+.websels span{
+    color: #FFFFFF;
+}
+.section{
+
+
+}
+.titleData{
+    background-color: #48B9B7;
+    padding: 20px;
+    border: 1px black dotted ;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius: 5px;
+}
+.titleData:hover{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    transition:.5s;
+}
+.aboutTitle{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 25px;
+}
+
+.titleBody{
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
